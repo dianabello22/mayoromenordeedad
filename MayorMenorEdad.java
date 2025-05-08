@@ -15,6 +15,7 @@ public class MayorMenorEdad {
             System.out.println("Eres menor de edad");
         }
 
+        
         entradaUsuario.close();
     }
 }
